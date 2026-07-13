@@ -60,8 +60,8 @@ Quick Start
 ```bash
 git clone https://github.com/sylhetyhackvenger/iPTS_iperf3-TestSuite
 cd iPTS_iperf3-TestSuite
-chmod +x ipts.py
-sudo python3 ipts.py
+chmod +x iPTS.py
+sudo python3 iPTS.py
 ```
 
 Menu Navigation
