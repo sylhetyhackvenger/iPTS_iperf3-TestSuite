@@ -58,8 +58,8 @@ Prerequisites
 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/iperf3-test-suite.git
-cd iperf3-test-suite
+git clone https://github.com/sylhetyhackvenger/iPTS_iperf3-TestSuite
+cd iPTS_iperf3-TestSuite
 chmod +x ipts.py
 sudo python3 ipts.py
 ```
