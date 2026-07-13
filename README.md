@@ -1,6 +1,8 @@
 🚀 iPerf3 Test Suite v2.0
 
-assets/1.png
+<p align="center">
+  <img src="assets/1.png" alt="Banner" width="100%">
+</p>
 
 A professional, interactive network performance analysis tool featuring 71 pre‑built iPerf3 commands across 7 categories.
 
@@ -26,7 +28,9 @@ With an interactive dashboard, optional port skipping, live verbose output, and 
 · Sudo Integration – All commands run with sudo for full system access.
 · Dragons ASCII Banner – A stunning cyber‑punk aesthetic right in your terminal.
 
-assets/2.png
+<p align="center">
+  <img src="assets/2.png" alt="Logo" width="300">
+</p>
 
 ---
 
